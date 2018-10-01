@@ -1,4 +1,5 @@
-FMwork
+> New and advanced version will be available soon.
+> #### Mighty PHP
 
 # Introduction
 This is a ultra light-weight framework designed by me to quickly create Website with minimal line of coding and setup requirement.
