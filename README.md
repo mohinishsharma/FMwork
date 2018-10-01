@@ -32,7 +32,7 @@ In `config.php` file change the following.
 
 In `www\views\` folder create a file `welcome-view.php` and add the following code
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -52,7 +52,7 @@ In `www\views\` folder create a file `welcome-view.php` and add the following co
 
 In `www\Controller\` folder create a `Welcome.php` and add the following code
 
-```
+```php
 <?php
 class Welcome extends FM_Controller
 {
